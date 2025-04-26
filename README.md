@@ -27,5 +27,5 @@ Una aplicación moderna con interfaz gráfica para generar códigos QR personali
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/tuusuario/generador-qr-moderno.git
-cd generador-qr-moderno
+https://github.com/YordanDevZD/QR-CODE-GENERATOR-PYTHON.git
+cd QR-CODE-GENERATOR-PYTHON
