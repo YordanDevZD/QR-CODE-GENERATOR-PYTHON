@@ -27,5 +27,5 @@ Una aplicación moderna con interfaz gráfica para generar códigos QR personali
 
 1. Clona el repositorio:
 ```bash
-https://github.com/YordanDevZD/QR-CODE-GENERATOR-PYTHON.git
+git clone https://github.com/YordanDevZD/QR-CODE-GENERATOR-PYTHON.git
 cd QR-CODE-GENERATOR-PYTHON
