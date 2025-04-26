@@ -6,8 +6,6 @@
 
 Una aplicación moderna con interfaz gráfica para generar códigos QR personalizados, con temas oscuro/claro y diseño intuitivo.
 
-![Captura de pantalla en modo claro](https://i.imgur.com/placeholder-light.png)
-![Captura de pantalla en modo oscuro](https://i.imgur.com/placeholder-dark.png)
 
 ## ✨ Características
 
